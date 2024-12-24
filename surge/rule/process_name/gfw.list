@@ -1,0 +1,5 @@
+PROCESS-NAME,/Applications/Telegram.app/*
+PROCESS-NAME,/Applications/Discord.app/*
+
+PROCESS-NAME,/Applications/OKX.app/*
+PROCESS-NAME,/Applications/欧易.app/*

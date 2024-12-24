@@ -1,0 +1,39 @@
+PROCESS-NAME,/Applications/aDrive.app/*
+PROCESS-NAME,/Applications/QQ.app/*
+PROCESS-NAME,/Applications/QQLive.app/*
+PROCESS-NAME,/Applications/QQMusic.app/*
+PROCESS-NAME,/Applications/Kim.app/*
+PROCESS-NAME,/Applications/DingTalk.app/*
+PROCESS-NAME,/Applications/WeChat.app/*
+PROCESS-NAME,/Applications/TencentMeeting.app/*
+
+PROCESS-NAME,/Applications/如流.app/*
+PROCESS-NAME,/Applications/抖音.app/*
+PROCESS-NAME,/Applications/语雀.app/*
+PROCESS-NAME,/Applications/微信.app/*
+PROCESS-NAME,/Applications/钉钉.app/*
+
+PROCESS-NAME,/Applications/QQ音乐.app/*
+PROCESS-NAME,/Applications/百度网盘.app/*
+PROCESS-NAME,/Applications/阿里云盘.app/*
+PROCESS-NAME,/Applications/企业微信.app/*
+PROCESS-NAME,/Applications/喜马拉雅.app/*
+PROCESS-NAME,/Applications/高德地图.app/*
+
+PROCESS-NAME,/Applications/腾讯会议.app/*
+PROCESS-NAME,/Applications/腾讯视频.app/*
+
+PROCESS-NAME,/Applications/哔哩哔哩.app/*
+PROCESS-NAME,/Applications/哔哩哔哩 2.app/*
+
+PROCESS-NAME,/Applications/剪映专业版.app/*
+PROCESS-NAME,/Applications/网易有道翻译.app/*
+
+
+# 非标准 App
+PROCESS-NAME,/Library/Input Methods/SogouInput.app/*
+PROCESS-NAME,/System/Applications/Weather.app/*
+
+# 二进制完整路径程序
+PROCESS-NAME,/usr/libexec/timed
+PROCESS-NAME,/usr/libexec/nsurlsessiond
