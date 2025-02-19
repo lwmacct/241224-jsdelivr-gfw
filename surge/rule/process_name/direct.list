@@ -6,6 +6,7 @@ PROCESS-NAME,/Applications/Kim.app/*
 PROCESS-NAME,/Applications/DingTalk.app/*
 PROCESS-NAME,/Applications/WeChat.app/*
 PROCESS-NAME,/Applications/TencentMeeting.app/*
+PROCESS-NAME,/Applications/ToDesk云电脑.app/*
 
 PROCESS-NAME,/Applications/如流.app/*
 PROCESS-NAME,/Applications/抖音.app/*
@@ -28,7 +29,6 @@ PROCESS-NAME,/Applications/哔哩哔哩 2.app/*
 
 PROCESS-NAME,/Applications/剪映专业版.app/*
 PROCESS-NAME,/Applications/网易有道翻译.app/*
-
 
 # 非标准 App
 PROCESS-NAME,/Library/Input Methods/SogouInput.app/*
