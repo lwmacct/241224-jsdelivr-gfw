@@ -1,7 +1,6 @@
 # 没必要联网的不信任应用, 
 PROCESS-NAME,/Applications/iBar.app/*
 PROCESS-NAME,/Applications/iBar Pro.app/*
-PROCESS-NAME,/Applications/Xmind.app/*
 PROCESS-NAME,/Applications/Magnet.app/*
 PROCESS-NAME,/Applications/Paste.app/*
 PROCESS-NAME,/Applications/cd to.app/*
